@@ -1,4 +1,4 @@
-module github.com/SlateGitOrg/planprice
+module github.com/KPatelce/planprice
 
 go 1.25.0
 

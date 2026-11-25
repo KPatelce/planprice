@@ -36,7 +36,3 @@ make plans   # runs scripts/gen-plans.sh, writes testdata/plans/*.json
 
 `usage.yml` and `usage-multi-region.yml` hold illustrative usage figures for
 the demo.
-
-## Maintainer
-
-Maintained by Dev Bhatt, a data analyst with 6+ years of experience building automated pipelines, controls and dashboards. Dev's work focuses on analytics, risk indicators, and automation. For project inquiries, contact [Dev Bhatt](mailto:devbhattwork27@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/dev-bhatt27).

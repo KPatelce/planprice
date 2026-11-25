@@ -11,10 +11,10 @@ import (
 	"slices"
 	"sort"
 
-	"github.com/SlateGitOrg/planprice/internal/money"
-	"github.com/SlateGitOrg/planprice/internal/pricing"
-	"github.com/SlateGitOrg/planprice/internal/tfplan"
-	"github.com/SlateGitOrg/planprice/internal/usage"
+	"github.com/KPatelce/planprice/internal/money"
+	"github.com/KPatelce/planprice/internal/pricing"
+	"github.com/KPatelce/planprice/internal/tfplan"
+	"github.com/KPatelce/planprice/internal/usage"
 )
 
 // HoursPerMonth is the AWS billing convention for an average month

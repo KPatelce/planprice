@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"slices"
 
-	"github.com/SlateGitOrg/planprice/internal/money"
-	"github.com/SlateGitOrg/planprice/internal/tfplan"
-	"github.com/SlateGitOrg/planprice/internal/usage"
+	"github.com/KPatelce/planprice/internal/money"
+	"github.com/KPatelce/planprice/internal/tfplan"
+	"github.com/KPatelce/planprice/internal/usage"
 )
 
 var (

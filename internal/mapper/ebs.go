@@ -3,9 +3,9 @@ package mapper
 import (
 	"fmt"
 
-	"github.com/SlateGitOrg/planprice/internal/money"
-	"github.com/SlateGitOrg/planprice/internal/tfplan"
-	"github.com/SlateGitOrg/planprice/internal/usage"
+	"github.com/KPatelce/planprice/internal/money"
+	"github.com/KPatelce/planprice/internal/tfplan"
+	"github.com/KPatelce/planprice/internal/usage"
 )
 
 // EBS volume baselines and io2 IOPS tier boundaries, from the EBS pricing

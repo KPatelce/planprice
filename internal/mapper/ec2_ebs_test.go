@@ -4,7 +4,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/SlateGitOrg/planprice/internal/mapper"
+	"github.com/KPatelce/planprice/internal/mapper"
 )
 
 // Unit prices below are from the embedded snapshot (us-east-1 unless noted):

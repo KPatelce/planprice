@@ -3,8 +3,8 @@ package mapper
 import (
 	"fmt"
 
-	"github.com/SlateGitOrg/planprice/internal/tfplan"
-	"github.com/SlateGitOrg/planprice/internal/usage"
+	"github.com/KPatelce/planprice/internal/tfplan"
+	"github.com/KPatelce/planprice/internal/usage"
 )
 
 type natGatewayMapper struct{}

@@ -5,7 +5,7 @@ import (
 	"log/slog"
 	"strings"
 
-	"github.com/SlateGitOrg/planprice/internal/tfaddr"
+	"github.com/KPatelce/planprice/internal/tfaddr"
 )
 
 // Resource is one managed resource instance in a before or after view.

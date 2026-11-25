@@ -11,8 +11,8 @@ import (
 	"path/filepath"
 	"sort"
 
-	"github.com/SlateGitOrg/planprice/internal/money"
-	"github.com/SlateGitOrg/planprice/internal/pricing"
+	"github.com/KPatelce/planprice/internal/money"
+	"github.com/KPatelce/planprice/internal/pricing"
 )
 
 // SlimFileName is the cache file name for a service's slim offer in a region.

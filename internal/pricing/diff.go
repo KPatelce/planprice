@@ -3,7 +3,7 @@ package pricing
 import (
 	"sort"
 
-	"github.com/SlateGitOrg/planprice/internal/money"
+	"github.com/KPatelce/planprice/internal/money"
 )
 
 // PriceChange is one difference between two snapshots.

@@ -29,8 +29,8 @@ import (
 
 	"go.yaml.in/yaml/v3"
 
-	"github.com/SlateGitOrg/planprice/internal/money"
-	"github.com/SlateGitOrg/planprice/internal/tfaddr"
+	"github.com/KPatelce/planprice/internal/money"
+	"github.com/KPatelce/planprice/internal/tfaddr"
 )
 
 // SupportedVersion is the usage-file schema version.

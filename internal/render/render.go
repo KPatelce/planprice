@@ -9,9 +9,9 @@ import (
 	"strings"
 	"unicode/utf8"
 
-	"github.com/SlateGitOrg/planprice/internal/estimate"
-	"github.com/SlateGitOrg/planprice/internal/mapper"
-	"github.com/SlateGitOrg/planprice/internal/money"
+	"github.com/KPatelce/planprice/internal/estimate"
+	"github.com/KPatelce/planprice/internal/mapper"
+	"github.com/KPatelce/planprice/internal/money"
 )
 
 // Format is an output format.

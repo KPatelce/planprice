@@ -3,7 +3,7 @@ package estimate
 import (
 	"sort"
 
-	"github.com/SlateGitOrg/planprice/internal/money"
+	"github.com/KPatelce/planprice/internal/money"
 )
 
 // ChangeKind classifies a resource in a diff.

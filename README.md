@@ -1,7 +1,5 @@
 # planprice
 
-[![CI](https://github.com/SlateGitOrg/planprice/actions/workflows/ci.yml/badge.svg)](https://github.com/SlateGitOrg/planprice/actions/workflows/ci.yml)
-
 **Monthly AWS cost estimates and cost diffs for Terraform plans, computed offline from a pinned AWS price snapshot, with Markdown output ready to post on a pull request.**
 
 ```console
@@ -72,7 +70,7 @@ complexity: [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md).
 Requires Go 1.25+. No AWS credentials, network or Terraform needed to estimate.
 
 ```sh
-git clone https://github.com/SlateGitOrg/planprice && cd planprice
+git clone https://github.com/KPatelce/planprice && cd planprice
 make build                      # -> bin/planprice
 make demo                       # offline end-to-end run on the bundled plans
 
@@ -321,9 +319,6 @@ MIT, see [LICENSE](LICENSE). AWS price data in the snapshot is AWS's; see
 
 ## Maintainer
 
-Dev Bhatt maintains planprice, bringing experience in data analytics,
-automation, controls, and reconciliation. His work focuses on reliable
-pipelines and clear operational signals at scale.
+Maintained by **Kashish Patel**, Senior Software Engineer and Technical Lead.
 
-For project questions or feedback, contact [Dev Bhatt](mailto:devbhattwork27@gmail.com)
-or connect on [LinkedIn](https://linkedin.com/in/dev-bhatt27).
+For project inquiries, contact [kashish.patel@belvionus.com](mailto:kashish.patel@belvionus.com).

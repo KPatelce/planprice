@@ -9,12 +9,12 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/SlateGitOrg/planprice/internal/mapper"
-	"github.com/SlateGitOrg/planprice/internal/money"
-	"github.com/SlateGitOrg/planprice/internal/pricedata"
-	"github.com/SlateGitOrg/planprice/internal/pricing"
-	"github.com/SlateGitOrg/planprice/internal/tfplan"
-	"github.com/SlateGitOrg/planprice/internal/usage"
+	"github.com/KPatelce/planprice/internal/mapper"
+	"github.com/KPatelce/planprice/internal/money"
+	"github.com/KPatelce/planprice/internal/pricedata"
+	"github.com/KPatelce/planprice/internal/pricing"
+	"github.com/KPatelce/planprice/internal/tfplan"
+	"github.com/KPatelce/planprice/internal/usage"
 )
 
 func opts(t testing.TB, u *usage.File) Options {

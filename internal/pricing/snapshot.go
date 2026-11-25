@@ -19,7 +19,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/SlateGitOrg/planprice/internal/money"
+	"github.com/KPatelce/planprice/internal/money"
 )
 
 // SchemaVersion is the snapshot file format version this package reads.

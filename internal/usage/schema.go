@@ -6,7 +6,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/SlateGitOrg/planprice/internal/tfaddr"
+	"github.com/KPatelce/planprice/internal/tfaddr"
 )
 
 // Kind is the type of a usage field.
